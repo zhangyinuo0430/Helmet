@@ -1,0 +1,10 @@
+# Helmet 42 YOLO dataset
+path: E:/Yolov8_helmet/qq_3045834499/Helmet_42_yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: head
+  2: helmet
